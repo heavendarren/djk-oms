@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hybris.cis:hybris-cis-api-avs:5.4.0.0-RC23">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hybris/cis/hybris-cis-api-avs/5.4.0.0-RC23/hybris-cis-api-avs-5.4.0.0-RC23.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hybris/cis/hybris-cis-api-avs/5.4.0.0-RC23/hybris-cis-api-avs-5.4.0.0-RC23-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hybris/cis/hybris-cis-api-avs/5.4.0.0-RC23/hybris-cis-api-avs-5.4.0.0-RC23-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hybris.propertyregistry:property-registry-service:5.4.0.8">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hybris/propertyregistry/property-registry-service/5.4.0.8/property-registry-service-5.4.0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hybris/propertyregistry/property-registry-service/5.4.0.8/property-registry-service-5.4.0.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hybris/propertyregistry/property-registry-service/5.4.0.8/property-registry-service-5.4.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
